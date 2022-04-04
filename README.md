@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Quackpik
+- 👀 I’m interested in physics
+- 🌱 I’m currently learning data analizing
